@@ -7,4 +7,5 @@ Enable phpunit as a compiler:
 
     :compiler phpunit
 
-Can be added automatically with an autocommand or from an ftplugin.
+`after/ftplugin/php.vim` automatically sets phpunit as the compiler for all PHP
+projects.
