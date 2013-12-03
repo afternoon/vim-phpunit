@@ -1,8 +1,8 @@
 " Vim compiler file
 " Compiler:	    PHPUnit
-" Maintainer:	Ben Godfrey <ben@ben2.com>
-" URL:		    https://github.com/afternoon/vim-phpunit
-" Last Change:	2011 Mar 9
+" Maintainer:	  Ben Godfrey <ben@ben2.com>
+" URL:		      https://github.com/afternoon/vim-phpunit
+" Last Change:	2013 Dec 3
 
 if exists("current_compiler")
   finish
