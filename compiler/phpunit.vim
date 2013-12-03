@@ -13,6 +13,6 @@ if exists(":CompilerSet") != 2		" older Vim always used :setlocal
   command -nargs=* CompilerSet setlocal <args>
 endif
 
-CompilerSet makeprg=phpunit\ $*\ .
+CompilerSet makeprg=phpunit\ $*
 
 CompilerSet errorformat=%E%n)\ %.%#,%Z%f:%l,%C%m,%-G%.%#
