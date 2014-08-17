@@ -15,4 +15,4 @@ endif
 
 CompilerSet makeprg=phpunit\ $*
 
-CompilerSet errorformat=%E%n)\ %.%#,%Z%f:%l,%C%m,%-G%.%#
+CompilerSet errorformat=%E%n)\ %.%#,%Z%f:%l,%C%m,%C,%-G%.%#
